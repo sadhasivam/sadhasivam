@@ -6,6 +6,6 @@ Fluid technologist specialized in architecting ecommerce technology stacks. Deep
 
 ### Follow me @
 
-* [![linkedin](badges/strava_32@2x.png)](https://www.linkedin.com/in/sadhasivam/)
+*  [Linkedin](https://www.linkedin.com/in/sadhasivam/)
 
-* [![Strava](badges/strava_32@2x.png)](https://www.strava.com/athletes/13899771)
+*  [Strava](https://www.strava.com/athletes/13899771)
