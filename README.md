@@ -9,3 +9,5 @@ Fluid technologist specialized in architecting ecommerce technology stacks. Deep
 *  [Linkedin](https://www.linkedin.com/in/sadhasivam/)
 
 *  [Strava](https://www.strava.com/athletes/13899771)
+
+* [Good Reads](https://www.goodreads.com/sadhasivam)
