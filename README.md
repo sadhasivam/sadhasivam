@@ -1,13 +1,18 @@
-# Hi I,m sadhasivam 👋
+# Hi I,m sadhasivam  👋
 
-## Principal Engineer at ShopRunner
+## Engineering at ShopRunner/Fedex
 
+<p>
 Fluid technologist specialized in architecting ecommerce technology stacks. Deep rooted understanding in eCommerce strategies, Payment Gateways, Engineering practices, Startup Culture, Strategic approaches, Cross Culture infrastructure detailing.
+</p>
 
-### Follow me @
+<p align="left">
+<a href="https://www.linkedin.com/in/sadhasivam/">
+<img src="https://img.shields.io/badge/-linkedin-287bbc" alt="LinkedIn"/></a> 
+<a href="https://www.strava.com/athletes/13899771">
+<img src="https://img.shields.io/badge/-strava-fc5200" alt="Strava"/></a> 
+<a href="https://www.goodreads.com/sadhasivam">
+<img src="https://img.shields.io/badge/-goodreads-F4F1EA" alt="GoodReads" /></a> 
+</p>
 
-*  [Linkedin](https://www.linkedin.com/in/sadhasivam/)
-
-*  [Strava](https://www.strava.com/athletes/13899771)
-
-* [Good Reads](https://www.goodreads.com/sadhasivam)
+* 😁 Nice to meet you!
