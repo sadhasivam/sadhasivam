@@ -3,7 +3,8 @@
 ## Engineering at ShopRunner/Fedex
 
 <p>
-Fluid technologist specialized in architecting ecommerce technology stacks. Deep rooted understanding in eCommerce strategies, Payment Gateways, Engineering practices, Startup Culture, Strategic approaches, Cross Culture infrastructure detailing.
+Fluid technologist specialized in architecting eCommerce technology stacks. Deep-rooted understanding in eCommerce strategies, Payment Gateways, Engineering practices, Startup Culture, Strategic approaches, Cross Culture infrastructure detailing. 
+Passion for Developer Experience, Product Management, and Developer Relations. Love Building Tools.  
 </p>
 
 <p align="left">
