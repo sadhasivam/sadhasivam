@@ -16,6 +16,8 @@ Passion for Developer Experience, Product Management, and Developer Relations. L
     <img src="https://img.shields.io/badge/-goodreads-F4F1EA" alt="GoodReads" /></a> 
   <a href="https://www.instagram.com/kadalamittai/">
     <img src="https://img.shields.io/badge/-Strobes-6EB800" alt="Strobes" /></a>
+  <a href="https://open.spotify.com/user/1223730843">
+    <img src="https://img.shields.io/badge/-Spotify-111E00" alt="Strobes" /></a>
 </p>
 
 * 😁 Nice to meet you!
