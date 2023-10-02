@@ -7,6 +7,17 @@ Fluid technologist specialized in architecting eCommerce technology stacks. Deep
 Passion for Developer Experience, Product Management, and Developer Relations. Love Building Tools.  
 </p>
 
+<p>
+   <ul>
+     <li> Get things done. </li>
+     <li> No Drama. </li>
+     <li> Trust each other. </li>
+     <li> Smileys. </li>
+     <li> Communicate. </li>
+     <li> Hungry learn and grow. </li>
+     <li> Work as team and process. </li>
+   </ul>
+</p>
 <p align="left">
   <a href="https://www.linkedin.com/in/sadhasivam/">
     <img src="https://img.shields.io/badge/-linkedin-287bbc" alt="LinkedIn"/></a> 
